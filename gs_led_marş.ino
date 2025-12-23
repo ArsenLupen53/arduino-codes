@@ -52,7 +52,7 @@ void calGalatasarayRitim() {
   bip(150, 400); // -sa
 
   // --- CIM BOM BOM ---
-  bip(300, 200); // Cim
-  bip(300, 200); // Bom
-  bip(500, 1000); // BOOOM!
+  bip(150, 200); // Cim
+  bip(150, 200); // Bom
+  bip(250, 1000); // BOOOM!
 }
