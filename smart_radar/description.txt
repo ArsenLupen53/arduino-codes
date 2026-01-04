@@ -1,0 +1,10 @@
+
+Sese ve Harekete Duyarlı Akıllı Radar
+SG90 motor üzerine monte edilen uzaklık sensörü,
+ motor sayesinde sağa sola dönerek etrafı tarar
+Eğer tarama sırasında yakında bir cisim algılanırsa motor duru
+buzzer alarm verir
+Mikrofon sensörü ise ortamdaki sesi dinler
+güçlü bit ses (örneğin alkış) duyduğunda
+alarm sistemini susturur ve sistemi resetler.
+
